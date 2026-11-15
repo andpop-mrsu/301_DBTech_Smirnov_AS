@@ -1,0 +1,4 @@
+movies_rating.db
+*.csv
+*.txt
+make_db_init.py
